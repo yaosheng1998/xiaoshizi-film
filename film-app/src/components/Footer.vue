@@ -7,7 +7,7 @@
     <div class="middle">
       <ul>
         <li>
-          <span>GitHub</span>
+          <a href="https://github.com/yaosheng1998/xiaoshizi-film" target="_blank">GitHub</a>
         </li>
         <li>
           <span>邮箱</span>
